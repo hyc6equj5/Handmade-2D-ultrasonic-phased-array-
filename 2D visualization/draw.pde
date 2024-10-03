@@ -1,3 +1,6 @@
+// Credit: Hsiang-Yu Chen & Yi-Yao Huang
+// practical analog electronics
+
 import processing.serial.*;
 
 Serial myPort;  // Create object from Serial class
