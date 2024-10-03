@@ -5,8 +5,8 @@ This repository is for final project of 2022 practical analog electronics, 2D ph
 
 
 
-main/ is the Arduino source code
+Arduino/ is the Arduino source code
 
-draw/ is the Processing source code
+2D visualization/ is the Processing source code
 
 
